@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<center> <h1> Welcome To our openshift DevOps(CI/CD) project</h1> </center>
+<title> ..:::: Welcome To SGcloud ::::.. </title>
+<center> <h1> Welcome To Our Openshift DevOps(CI/CD) Project</h1> </center>
 
 <?php
 
